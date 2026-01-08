@@ -14,7 +14,7 @@ Prediction is the bridge between data and wisdom.
 
 - **Course:** UCS654 Predictive Analytics Using Statistics
 - **Duration:** 6th Semester (Jan–May 2026)
-- **Course Home Page:** https://www.psrana.com/ucs654
+- **Course Home Page:** https://www.psrana.com/ucs654-2026
 - **Official Syllabus (As available on Institute Website):** [Syllabus](Syllabus.pdf)
 - **Course Lecturers:** Dr. Prashant Singh Rana, Dr. Anjula Mehto, Dr. Suresh Raikwar
 - **Lab Instructor:** Ms. Shabnam Thakur
@@ -45,6 +45,8 @@ Prediction is the bridge between data and wisdom.
 | Sr. No. | Date             | Project Title                                              | Coursera Certificate |
 |:-------:|------------------|------------------------------------------------------------|----------------------|
 | 1       | 04.01.2026       | Tesla Stock Price Prediction using Facebook Prophet         | [View Certificate](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) |
+| 2       | 08.01.2026       | Working with BigQuery                                       | [View Certificate](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) |
+
 
 ## 04 – Assignments
 
