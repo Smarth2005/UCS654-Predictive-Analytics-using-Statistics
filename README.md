@@ -44,8 +44,8 @@ Prediction is the bridge between data and wisdom.
 
 | Sr. No. | Date             | Project Title                                              | Coursera Certificate |
 |:-------:|------------------|------------------------------------------------------------|----------------------|
-| 1       | 04.01.2026       | Tesla Stock Price Prediction using Facebook Prophet         | [View Certificate](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) |
-| 2       | 08.01.2026       | Working with BigQuery                                       | [View Certificate](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) |
+| 1       | 05.01.2026       | Tesla Stock Price Prediction using Facebook Prophet         | [View Certificate](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) |
+| 2       | 08.01.2026       | Working with BigQuery                                       | [View Certificate](https://www.coursera.org/account/accomplishments/verify/EDBEE9X667ZM) |
 
 
 ## 04 – Assignments
