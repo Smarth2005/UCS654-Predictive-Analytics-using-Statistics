@@ -1,71 +1,226 @@
 <div align="center">
 
-**न अनुमानं विना ज्ञानम्।**  
-*(अनुमान के बिना ज्ञान संभव नहीं है)*  
+## **न अनुमानं विना ज्ञानम्।**
 
 There is no knowledge without inference.  
 Prediction is the bridge between data and wisdom.
 
+## **UCS654: Predictive Analytics Using Statistics**
+[Course Home Page](https://www.psrana.com/ucs654-2026) • [Syllabus](Syllabus.pdf)
+
 </div>
 
-# **UCS654: Predictive Analytics Using Statistics**
+**Lecturers:** Dr. Prashant Singh Rana, Dr. Anjula Mehto, Dr. Suresh Raikwar<br>**Lab Instructor:** Ms. Shabnam Thakur <br><br>
+**Course Components:**
+- 60 marks MST and EST: Subject to Intitute Policy
+- 8 marks : Quizzes- 2 quizzes
+- 8 marks : Assignments
+- 8 marks : Kaggle Hacks
+- 8 marks : Guided Projects- Coursera
+- 8 marks : Woyage AI - Placement Preparation​ Platform
 
-## 01 – Course Information
+## 1️⃣ Lecture Resources
 
-- **Course:** UCS654 Predictive Analytics Using Statistics
-- **Duration:** 6th Semester (Jan–May 2026)
-- **Course Home Page:** https://www.psrana.com/ucs654-2026
-- **Official Syllabus (As available on Institute Website):** [Syllabus](Syllabus.pdf)
-- **Course Lecturers:** Dr. Prashant Singh Rana, Dr. Anjula Mehto, Dr. Suresh Raikwar
-- **Lab Instructor:** Ms. Shabnam Thakur
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="10%" align="center">Topic</th>
+      <th width="75%" align="left">Title</th>
+      <th width="15%" align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="10%" align="center"><strong>01</strong></td>
+      <td width="75%">TOPSIS: Multiple Criteria Decision Making</td>
+      <td width="15%" align="center"><a href="https://github.com/psrana/Topsis"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>02</strong></td>
+      <td>Sampling Techniques</td>
+      <td align="center"><a href="https://github.com/AnjulaMehto/Sampling"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>03</strong></td>
+      <td>Distribution</td>
+      <td align="center"><a href="https://github.com/AnjulaMehto/Distribution"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>04</strong></td>
+      <td>Machine Learning using PyCaret</td>
+      <td align="center"><a href="https://github.com/psrana/Machine-Learning-using-PyCaret"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>05</strong></td>
+      <td>Data Generation (Modelling & Simulation)</td>
+      <td align="center"><a href="https://github.com/psrana/Data-Generation-using-Modelling-and-Simulation-for-ML"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>06</strong></td>
+      <td>Association Mining – Apriori</td>
+      <td align="center"><a href="https://github.com/psrana/Association-Mining"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>07</strong></td>
+      <td>Association Mining – ECLAT</td>
+      <td align="center"><a href="https://github.com/AnjulaMehto/AssociationMining-ECLAT-"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>08</strong></td>
+      <td>Multi-Threading using Python</td>
+      <td align="center"><a href="https://github.com/psrana/Multi-Threading-Using-Python"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>09</strong></td>
+      <td>Hypothesis Testing & Parameter Estimation</td>
+      <td align="center"><a href="https://github.com/AnjulaMehto/Parameter-Estimations-and-Hypothesis_Testing"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>10</strong></td>
+      <td>Parameter Optimization</td>
+      <td align="center"><a href="https://github.com/psrana/Parameter-Optimization-of-SVM"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>11</strong></td>
+      <td>Nonlinear Modelling</td>
+      <td align="center"><a href="https://drive.google.com/file/d/1jFPb9EDTonaHanyBNaGjXLOD8_KzW2YJ/view"><img src="https://cdn.simpleicons.org/googledrive/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>12</strong></td>
+      <td>Measuring Data Similarity & Dissimilarity</td>
+      <td align="center"><a href="https://github.com/psrana/Measuring-Data-Similarity-and-Dissimilarity"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>13</strong></td>
+      <td>Ensemble Techniques</td>
+      <td align="center">-</td>
+    </tr>
+  </tbody>
+</table>
 
-## 02 – Lecture Resources
+## 2️⃣ Assignments
 
-- **Topic 01** – TOPSIS: Multiple Criteria Decision Making | [Link](https://github.com/psrana/Topsis)
-- **Topic 02** – Sampling | [Link](https://github.com/AnjulaMehto/Sampling)
-- **Topic 03** – Distribution | [Link](https://github.com/AnjulaMehto/Distribution)
-- **Topic 04** – Machine Learning using PyCaret | [Link](https://github.com/psrana/Machine-Learning-using-PyCaret)
-- **Topic 05** – Data Generation using Modelling and Simulation for Machine Learning | [Link](https://github.com/psrana/Data-Generation-using-Modelling-and-Simulation-for-ML)
-- **Topic 06** – Association Mining – Apriori | [Link](https://github.com/psrana/Association-Mining)
-- **Topic 07** – Association Mining – ECLAT | [Link](https://github.com/AnjulaMehto/AssociationMining-ECLAT-)
-- **Topic 08** – Multi-Threading using Python | [Link](https://github.com/psrana/Multi-Threading-Using-Python)
-- **Topic 09** – Hypothesis Testing and Parameter Estimation | [Link](https://github.com/AnjulaMehto/Parameter-Estimations-and-Hypothesis_Testing)
-- **Topic 10** – Parameter Optimization | [Link](https://github.com/psrana/Parameter-Optimization-of-SVM)
-- **Topic 11** – Nonlinear Modelling | [Link](https://drive.google.com/file/d/1jFPb9EDTonaHanyBNaGjXLOD8_KzW2YJ/view)
-- **Topic 12** – Measuring Data Similarity and Dissimilarity | [Link](https://github.com/psrana/Measuring-Data-Similarity-and-Dissimilarity)
-- **Topic 13** – Ensemble Technique | *No PPT*
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="10%" align="center">No.</th>
+      <th width="75%" align="left">Assignment Title</th>
+      <th width="15%" align="center">Repo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="10%" align="center"><strong>1</strong></td>
+      <td width="75%">Topsis</td>
+      <td width="15%" align="center"><a href="https://github.com/psrana/Assignment-Topsis"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>2</strong></td>
+      <td>Sampling</td>
+      <td align="center"><a href="https://github.com/AnjulaMehto/Sampling_Assignment"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>3</strong></td>
+      <td>Topsis for Pre-trained Models</td>
+      <td align="center"><a href="https://github.com/psrana/Assignment-Topsis-for-Pretrained-Models/"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>4</strong></td>
+      <td>Clustering</td>
+      <td align="center"><a href="https://github.com/psrana/Clustering-Assignment"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>5</strong></td>
+      <td>Parameter Optimization of SVM</td>
+      <td align="center"><a href="https://github.com/psrana/Assingment-Parameter-Optimization"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>6</strong></td>
+      <td>Ensemble of Pre-trained Models</td>
+      <td align="center"><a href="https://github.com/psrana/Assignment-Ensemble-PreTrainedDeepFakeModels"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>7</strong></td>
+      <td>Mashup</td>
+      <td align="center"><a href="https://github.com/psrana/Assignment-Mashup"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>8</strong></td>
+      <td>Parameter Estimation</td>
+      <td align="center"><a href="https://github.com/AnjulaMehto/Parameter-Estimations-and-Hypothesis_Testing/blob/main/Assignment_Parameter%20Estimations_2025.pdf"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>9</strong></td>
+      <td>Multi Threading</td>
+      <td align="center"><a href="https://github.com/psrana/Assingment-Multi-Threading"><img src="https://cdn.simpleicons.org/github/181717" height="24"></a></td>
+    </tr>
+  </tbody>
+</table>
 
-## 03 – Lab Experiments and Guided Projects
+## 3️⃣ Lab Experiments & Guided Projects
 
-- **Basics of R Programming** | [Resource](https://github.com/psrana/R-Programming)
-- **R Programming – Reference Book** | [Link](https://drive.google.com/file/d/1IJKtQ-GkKtrTuENR16rFLzvmTupDD8kJ/view)
-- **R Programming – Practice Repository** | [Repository](https://github.com/Smarth2005/R-programming)
-- **Guided Projects (Coursera Platform)**: Guided projects will be updated progressively in the table below as they are completed during the course.
+### **I.  R Programming**
+* **Basics of R:** [View Repo](https://github.com/psrana/R-Programming)
+* **Reference Book:** [Download PDF](https://drive.google.com/file/d/1IJKtQ-GkKtrTuENR16rFLzvmTupDD8kJ/view)
+* **Practice Repository:** [My Practice](https://github.com/Smarth2005/R-programming)
 
-| Sr. No. | Date             | Project Title                                              | Coursera Certificate |
-|:-------:|------------------|------------------------------------------------------------|----------------------|
-| 1       | 05.01.2026       | Tesla Stock Price Prediction using Facebook Prophet         | [View Certificate](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) |
-| 2       | 08.01.2026       | Working with BigQuery                                       | [View Certificate](https://www.coursera.org/account/accomplishments/verify/EDBEE9X667ZM) |
+### **II. Guided Projects (Coursera)**
+*Guided projects will be updated progressively below.*
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="10%" align="center">No.</th>
+      <th width="75%" align="left">Project Title</th>
+      <th width="15%" align="center">Proof</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="10%" align="center">1</td>
+      <td width="75%">Tesla Stock Price Prediction using Facebook Prophet</td>
+      <td width="15%" align="center"><a href="https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4"><img src="https://img.shields.io/badge/View-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="View"></a></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Working with BigQuery</td>
+      <td align="center"><a href="https://www.coursera.org/account/accomplishments/verify/EDBEE9X667ZM"><img src="https://img.shields.io/badge/View-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="View"></a></td>
+    </tr>
+  </tbody>
+</table>
 
-## 04 – Assignments
+## 4️⃣ Kaggle Hacks
 
-- **Assignment-1**  &nbsp;&nbsp;Topsis | [Link](https://github.com/psrana/Assignment-Topsis)
-- **Assignment-2**  &nbsp;&nbsp;Sampling | [Link](https://github.com/AnjulaMehto/Sampling_Assignment)
-- **Assignment-3**  &nbsp;&nbsp;Topsis for Pre-trained Models | [Link](https://github.com/psrana/Assignment-Topsis-for-Pretrained-Models/)
-- **Assignment-4**  &nbsp;&nbsp;Clustering | [Link](https://github.com/psrana/Clustering-Assignment)
-- **Assignment-5**  &nbsp;&nbsp;Parameter Optimization of SVM | [Link](https://github.com/psrana/Assingment-Parameter-Optimization)
-- **Assignment-6**  &nbsp;&nbsp;Ensemble of Pre-trained models for Deep Fake Detection | [Link](https://github.com/psrana/Assignment-Ensemble-PreTrainedDeepFakeModels)
-- **Assignment-7**  &nbsp;&nbsp;Mashup | [Link](https://github.com/psrana/Assignment-Mashup)
-- **Assignment-8**  &nbsp;&nbsp;Parameter Estimation | [Link](https://github.com/AnjulaMehto/Parameter-Estimations-and-Hypothesis_Testing/blob/main/Assignment_Parameter%20Estimations_2025.pdf)
-- **Assignment-9**  &nbsp;&nbsp;Multi Threading | [Link](https://github.com/psrana/Assingment-Multi-Threading)
+**Kaggle Profile:** [View Profile](https://www.kaggle.com/smarthkaushal) <br><br>
+**Kaggle Participation Log:**
 
-## 05 – Kaggle Hack
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="10%" align="center">Hack</th>
+      <th width="75%" align="left">Topic</th>
+      <th width="15%" align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="10%" align="center"><strong>1</strong></td>
+      <td width="75%"><em>Multi-Class Classification</em></td>
+      <td width="15%" align="center"><a href="https://www.kaggle.com/competitions/thapar-ucs-654-2026-hack-01"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="24"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>2</strong></td>
+      <td><em>Upcoming...</em></td>
+      <td align="center"><a href="#"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="24"></a></td>
+    </tr>
+  </tbody>
+</table>
 
-Kaggle Hack details will be updated as part of the course activities.
+## 5️⃣ Woyage AI
 
-## Disclaimer
+Will be updated soon
 
-- This repository is maintained strictly for academic and educational purposes as part of the UCS654 course.  
-- Course materials, reference links, and certificates are shared only for academic verification and learning.  
-- Copyright of books, slides, and other reference materials remains with the respective authors and publishers.
+### ⚠️ Disclaimer
+* This repository is maintained strictly for academic and educational purposes as part of the UCS654 course.
+* Course materials, reference links, and certificates are shared only for academic verification and learning.
+* Copyright of books, slides, and other reference materials remains with the respective authors and publishers.
