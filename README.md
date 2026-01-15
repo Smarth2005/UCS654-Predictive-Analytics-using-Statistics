@@ -39,15 +39,16 @@
 
 ## 2️⃣ Assignments
 
-* **Assignment 1:** Topsis | [Link](https://github.com/psrana/Assignment-Topsis)
-* **Assignment 2:** Sampling | [Link](https://github.com/AnjulaMehto/Sampling_Assignment)
-* **Assignment 3:** Topsis for Pre-trained Models | [Link](https://github.com/psrana/Assignment-Topsis-for-Pretrained-Models/)
-* **Assignment 4:** Clustering | [Link](https://github.com/psrana/Clustering-Assignment)
-* **Assignment 5:** Parameter Optimization of SVM | [Link](https://github.com/psrana/Assingment-Parameter-Optimization)
-* **Assignment 6:** Ensemble of Pre-trained Models | [Link](https://github.com/psrana/Assignment-Ensemble-PreTrainedDeepFakeModels)
-* **Assignment 7:** Mashup | [Link](https://github.com/psrana/Assignment-Mashup)
-* **Assignment 8:** Parameter Estimation | [Link](https://github.com/AnjulaMehto/Parameter-Estimations-and-Hypothesis_Testing/blob/main/Assignment_Parameter%20Estimations_2025.pdf)
-* **Assignment 9:** Multi Threading | [Link](https://github.com/psrana/Assingment-Multi-Threading)
+* **A1:** Topsis | [Repo](https://github.com/psrana/Assignment-Topsis)
+* **A2:** Sampling | [Repo](https://github.com/AnjulaMehto/Sampling_Assignment)
+* **A3:** Advance Mathematics | [Repo](https://github.com/psrana/Assignment-Topsis-for-Pretrained-Models/)
+* **A4:** Topsis for Pre-trained Models | [Repo](https://github.com/psrana/Assignment-Topsis-for-Pretrained-Models/)
+* **A5:** Clustering | [Repo](https://github.com/psrana/Clustering-Assignment)
+* **A6:** Parameter Optimization of SVM | [Repo](https://github.com/psrana/Assingment-Parameter-Optimization)
+* **A7:** Ensemble of Pre-trained Models | [Repo](https://github.com/psrana/Assignment-Ensemble-PreTrainedDeepFakeModels)
+* **A8:** Mashup | [Repo](https://github.com/psrana/Assignment-Mashup)
+* **A9:** Parameter Estimation | [Repo](https://github.com/AnjulaMehto/Parameter-Estimations-and-Hypothesis_Testing/blob/main/Assignment_Parameter%20Estimations_2025.pdf)
+* **A10:** Multi Threading | [Repo](https://github.com/psrana/Assingment-Multi-Threading)
 
 ## 3️⃣ Lab Experiments & Guided Projects
 
@@ -59,15 +60,24 @@
 ### **II. Guided Projects (Coursera)**
 *Guided projects will be updated progressively below.*
 
-1. Tesla Stock Price Prediction using Facebook Prophet | [View Certificate](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4)
-2. Working with BigQuery | [View Certificate](https://www.coursera.org/account/accomplishments/verify/EDBEE9X667ZM)
+| Sr No | Project Title | Certificate | LinkedIn Post | Repository |
+|:------:|---------------|:-------------:|:----------------:|:------------:|
+| 1 | Tesla Stock Price Prediction using Facebook Prophet | [View](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7415755144509804544/) | Coming soon |
+| 2 | Working with BigQuery | [View](https://www.coursera.org/account/accomplishments/verify/EDBEE9X667ZM) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7415756669164400640/) | Coming soon |
+| 3 | Portfolio Diversification using Correlation Matrix | [View](https://www.coursera.org/account/accomplishments/verify/BECV48VXZPSH) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7417258904306225152/) | Coming soon |
+| 4 | Semantic Segmentation with Amazon Sagemaker | [View](https://www.coursera.org/account/accomplishments/verify/9MVR3T6VGX9Z) | Coming soon | Coming soon |
+| 5 | Tweet Emotion Recognition with TensorFlow | [View](https://www.coursera.org/account/accomplishments/verify/2GWFZHY350NO) | Coming soon | Coming soon |
+| 6 | Building Custom Regional Reports with Google Analytics | In Progress | Coming soon | Coming soon |
+| 7 | Machine Learning Pipelines with Azure ML Studio | Up Next | Coming soon | Coming soon |
+| 8 | Getting Started with Azure DevOps Boards | Up Next | Coming soon | Coming soon |
+| 9 | Build a CI/CD Pipeline with Docker: From Code to Deployment | Up Next | Coming soon | Coming soon |
 
 ## 4️⃣ Kaggle Hacks
 
 **Kaggle Profile:** [View Profile](https://www.kaggle.com/smarthkaushal)
 
 * **Hack 1:** Multi-Class Classification | [Link](https://www.kaggle.com/competitions/thapar-ucs-654-2026-hack-01)
-* **Hack 2:** *Upcoming...*
+* **Hack 2:** Multi-Class Classification | [Link](https://www.kaggle.com/competitions/thapar-ucs-654-2026-hack-02)
 
 ## 5️⃣ Woyage AI
 
