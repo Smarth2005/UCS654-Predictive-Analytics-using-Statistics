@@ -62,15 +62,11 @@
 
 | Sr No | Project Title | Certificate | LinkedIn Post | Repository |
 |:------:|---------------|:-------------:|:----------------:|:------------:|
-| 1 | Tesla Stock Price Prediction using Facebook Prophet | [View](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7415755144509804544/) | Coming soon |
-| 2 | Working with BigQuery | [View](https://www.coursera.org/account/accomplishments/verify/EDBEE9X667ZM) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7415756669164400640/) | Coming soon |
-| 3 | Portfolio Diversification using Correlation Matrix | [View](https://www.coursera.org/account/accomplishments/verify/BECV48VXZPSH) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7417258904306225152/) | Coming soon |
-| 4 | Semantic Segmentation with Amazon Sagemaker | [View](https://www.coursera.org/account/accomplishments/verify/9MVR3T6VGX9Z) | Coming soon | Coming soon |
-| 5 | Tweet Emotion Recognition with TensorFlow | [View](https://www.coursera.org/account/accomplishments/verify/2GWFZHY350NO) | Coming soon | Coming soon |
-| 6 | Building Custom Regional Reports with Google Analytics | In Progress | Coming soon | Coming soon |
-| 7 | Machine Learning Pipelines with Azure ML Studio | Up Next | Coming soon | Coming soon |
-| 8 | Getting Started with Azure DevOps Boards | Up Next | Coming soon | Coming soon |
-| 9 | Build a CI/CD Pipeline with Docker: From Code to Deployment | Up Next | Coming soon | Coming soon |
+| 1 | Tesla Stock Price Prediction using Facebook Prophet | [View](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7415755144509804544/) | [Repo](https://github.com/Smarth2005/Guided-Project-Tesla-Stock-Price-Prediction-using-Facebook-Prophet) |
+| 2 | Working with BigQuery | [View](https://www.coursera.org/account/accomplishments/verify/EDBEE9X667ZM) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7415756669164400640/) | [Repo](https://github.com/Smarth2005/Guided-Project-Working-with-BigQuery) |
+| 3 | Portfolio Diversification using Correlation Matrix | [View](https://www.coursera.org/account/accomplishments/verify/BECV48VXZPSH) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7417258904306225152/) | [Repo](https://github.com/Smarth2005/Guided-Project-Portfolio-Diversification-using-Correlation-Matrix) |
+| 4 | Semantic Segmentation with Amazon Sagemaker | [View](https://www.coursera.org/account/accomplishments/verify/9MVR3T6VGX9Z) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7418034518793674752/) | [Repo](https://github.com/Smarth2005/Guided-Project-Semantic-Segmentation-with-Amazon-Sagemaker) |
+| 5 | Tweet Emotion Recognition with TensorFlow | [View](https://www.coursera.org/account/accomplishments/verify/2GWFZHY350NO) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7418037468953989120/) | [Repo](https://github.com/Smarth2005/Guided-Project-Tweet-Emotion-Recognition-with-TensorFlow) |
 
 ## 4️⃣ Kaggle Hacks
 
