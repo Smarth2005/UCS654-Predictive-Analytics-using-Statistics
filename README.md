@@ -1,6 +1,6 @@
 ![banner](./banner.png)
 
-## 🏛️ Course Information
+## Course Information
 
 **Course Home Page:** https://www.psrana.com/ucs654-2026
 
@@ -20,7 +20,7 @@
 - **Numer AI:** https://numer.ai/onboarding
 - **Woyage AI:** https://talent.woyage.ai/
 
-## 💻 Lab Experiments & Guided Projects
+## Lab Experiments & Guided Projects
 
 ### **I. R Programming**
 * Basics of R | [Resource](https://github.com/psrana/R-Programming)
@@ -32,7 +32,7 @@
 * All the Coursera certifications are progressively added to LinkedIn: [Open LinkedIn](https://www.linkedin.com/in/smarth-kaushal-02a1092b2/details/certifications/)
 
 
-## 📚 Lecture Resources
+## Lecture Resources
 
 ### Dr. PS Rana
 * [↗️](https://github.com/psrana/Topsis) Topic 1 – Topsis: Multiple Criteria Decision Making  
@@ -56,7 +56,7 @@
 - [↗️](https://github.com/psrana/Measuring-Data-Similarity-and-Dissimilarity) Measuring Data Similarity & Dissimilarity  
 - Ensemble Techniques | *No PPT Available*
 
-## 📂 Course Assignments
+## Course Assignments
 
 - [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A1-Topsis) Assignment 1: TOPSIS
 - [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A2-Sampling) Assignment-2: Sampling
@@ -66,7 +66,7 @@
 - [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A6-Data-Generation-using-Modelling-and-Simulation-for-ML) Assignment-6: Data Generation using Modelling and Simulation for Machine Learning
 - [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A7-Mashup) Assignment-7: Mashup
 
-## ⚠️ Disclaimer
+## Disclaimer
 * This repository is maintained strictly for academic and educational purposes as part of the UCS654 course.
 * Course materials, reference links, and certificates are shared only for academic verification and learning.
 * Copyright of books, slides, and other reference materials remains with the respective authors and publishers.
