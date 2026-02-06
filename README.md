@@ -1,85 +1,72 @@
-<div align="center">
+![banner](./banner.png)
 
-## **न अनुमानं विना ज्ञानम्।**
+## 🏛️ Course Information
 
-*(There is no knowledge without inference)*  <br>
-*Prediction is the bridge between data and wisdom.*
+**Course Home Page:** https://www.psrana.com/ucs654-2026
 
-## **UCS654: Predictive Analytics Using Statistics**
-[Course Home Page](https://www.psrana.com/ucs654-2026) • [Syllabus](Syllabus.pdf)
-
-</div>
-
-**Lecturers:** Dr. Prashant Singh Rana, Dr. Anjula Mehto, Dr. Suresh Raikwar  
+**Lecturers:** Dr. Prashant Singh Rana, Dr. Anjula Mehto, Dr. Suresh Chandra Raikwar  
 **Lab Instructor:** Ms. Shabnam Thakur
 
-**Course Components:**
-- **60 Marks:** MST and EST (Subject to Institute Policy)
-- **8 Marks:** Quizzes (2 Quizzes)
+**Evaluation Components:**
+- **60 Marks:** MST and EST- Subject to Institute Policy
+- **8 Marks:** 2 Quizzes on LMS 
 - **8 Marks:** Assignments
-- **8 Marks:** Kaggle Hacks
-- **8 Marks:** Guided Projects (Coursera)
-- **8 Marks:** Woyage AI (Placement Preparation Platform)
+- **8 Marks:** Coursera Guided Projects 
+- **8 Marks:** Kaggle Hacks & NumerAI Participation
+- **8 Marks:** Woyage AI- Placement Preparation Platform
 
-## 1️⃣ Lecture Resources
+**Navigation Links:**
+- **Kaggle:** https://www.kaggle.com/smarthkaushal
+- **Numer AI:** https://numer.ai/onboarding
+- **Woyage AI:** https://talent.woyage.ai/
 
-* **01** – Topsis: Multiple Criteria Decision Making | [Link](https://github.com/psrana/Topsis)
-* **02** – Sampling Techniques | [Link](https://github.com/AnjulaMehto/Sampling)
-* **03** – Distribution | [Link](https://github.com/AnjulaMehto/Distribution)
-* **04** – Machine Learning using PyCaret | [Link](https://github.com/psrana/Machine-Learning-using-PyCaret)
-* **05** – Data Generation using Modelling and Simulation for Machine Learning | [Link](https://github.com/psrana/Data-Generation-using-Modelling-and-Simulation-for-ML)
-* **06** – Association Mining – Apriori | [Link](https://github.com/psrana/Association-Mining)
-* **07** – Association Mining – ECLAT | [Link](https://github.com/AnjulaMehto/AssociationMining-ECLAT-)
-* **08** – Multi-Threading using Python | [Link](https://github.com/psrana/Multi-Threading-Using-Python)
-* **09** – Hypothesis Testing & Parameter Estimation | [Link](https://github.com/AnjulaMehto/Parameter-Estimations-and-Hypothesis_Testing)
-* **10** – Parameter Optimization | [Link](https://github.com/psrana/Parameter-Optimization-of-SVM)
-* **11** – Nonlinear Modelling | [Link](https://drive.google.com/file/d/1jFPb9EDTonaHanyBNaGjXLOD8_KzW2YJ/view)
-* **12** – Measuring Data Similarity & Dissimilarity | [Link](https://github.com/psrana/Measuring-Data-Similarity-and-Dissimilarity)
-* **13** – Ensemble Techniques | *No PPT Available*
-
-## 2️⃣ Assignments
-
-* **A1:** Topsis | [Repo](https://github.com/psrana/Assignment-Topsis)
-* **A2:** Sampling | [Repo](https://github.com/AnjulaMehto/Sampling_Assignment)
-* **A3:** Advance Mathematics | [Repo](https://github.com/psrana/Assignment-Topsis-for-Pretrained-Models/)
-* **A4:** Topsis for Pre-trained Models | [Repo](https://github.com/psrana/Assignment-Topsis-for-Pretrained-Models/)
-* **A5:** Clustering | [Repo](https://github.com/psrana/Clustering-Assignment)
-* **A6:** Parameter Optimization of SVM | [Repo](https://github.com/psrana/Assingment-Parameter-Optimization)
-* **A7:** Ensemble of Pre-trained Models | [Repo](https://github.com/psrana/Assignment-Ensemble-PreTrainedDeepFakeModels)
-* **A8:** Mashup | [Repo](https://github.com/psrana/Assignment-Mashup)
-* **A9:** Parameter Estimation | [Repo](https://github.com/AnjulaMehto/Parameter-Estimations-and-Hypothesis_Testing/blob/main/Assignment_Parameter%20Estimations_2025.pdf)
-* **A10:** Multi Threading | [Repo](https://github.com/psrana/Assingment-Multi-Threading)
-
-## 3️⃣ Lab Experiments & Guided Projects
+## 💻 Lab Experiments & Guided Projects
 
 ### **I. R Programming**
 * Basics of R | [Resource](https://github.com/psrana/R-Programming)
 * Reference Book: R for Everyone - Advanced Analytics and Graphics | [Drive Link](https://drive.google.com/file/d/1IJKtQ-GkKtrTuENR16rFLzvmTupDD8kJ/view)
-* Practice Repository | [Repository](https://github.com/Smarth2005/R-programming)
+* Practice Repository | [View Repo](https://github.com/Smarth2005/R-programming)
 
 ### **II. Guided Projects (Coursera)**
-*Guided projects will be updated progressively below.*
+* Guided projects are being updated progressively here: [Google Sheet Link](https://docs.google.com/spreadsheets/d/1rLxTP40NubP8g-sTl3qotVp8vV_cexf3iEGKmsyaO0Q/edit?gid=891834841#gid=891834841)
+* All the Coursera certifications are progressively added to LinkedIn: [Open LinkedIn](https://www.linkedin.com/in/smarth-kaushal-02a1092b2/details/certifications/)
 
-| Sr No | Project Title | Certificate | LinkedIn Post | Repository |
-|:------:|---------------|:-------------:|:----------------:|:------------:|
-| 1 | Tesla Stock Price Prediction using Facebook Prophet | [View](https://www.coursera.org/account/accomplishments/verify/LSIU8G9RKGC4) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7415755144509804544/) | [Repo](https://github.com/Smarth2005/Guided-Project-Tesla-Stock-Price-Prediction-using-Facebook-Prophet) |
-| 2 | Working with BigQuery | [View](https://www.coursera.org/account/accomplishments/verify/EDBEE9X667ZM) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7415756669164400640/) | [Repo](https://github.com/Smarth2005/Guided-Project-Working-with-BigQuery) |
-| 3 | Portfolio Diversification using Correlation Matrix | [View](https://www.coursera.org/account/accomplishments/verify/BECV48VXZPSH) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7417258904306225152/) | [Repo](https://github.com/Smarth2005/Guided-Project-Portfolio-Diversification-using-Correlation-Matrix) |
-| 4 | Semantic Segmentation with Amazon Sagemaker | [View](https://www.coursera.org/account/accomplishments/verify/9MVR3T6VGX9Z) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7418034518793674752/) | [Repo](https://github.com/Smarth2005/Guided-Project-Semantic-Segmentation-with-Amazon-Sagemaker) |
-| 5 | Tweet Emotion Recognition with TensorFlow | [View](https://www.coursera.org/account/accomplishments/verify/2GWFZHY350NO) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7418037468953989120/) | [Repo](https://github.com/Smarth2005/Guided-Project-Tweet-Emotion-Recognition-with-TensorFlow) |
 
-## 4️⃣ Kaggle Hacks
+## 📚 Lecture Resources
 
-**Kaggle Profile:** [View Profile](https://www.kaggle.com/smarthkaushal)
+### Dr. PS Rana
+* [↗️](https://github.com/psrana/Topsis) Topic 1 – Topsis: Multiple Criteria Decision Making  
+* [↗️](https://github.com/psrana/Data-Generation-using-Modelling-and-Simulation-for-ML) Topic 2 – Data Generation using Modelling and Simulation for Machine Learning 
 
-* **Hack 1:** Multi-Class Classification | [Link](https://www.kaggle.com/competitions/thapar-ucs-654-2026-hack-01)
-* **Hack 2:** Multi-Class Classification | [Link](https://www.kaggle.com/competitions/thapar-ucs-654-2026-hack-02)
+### Dr. Anjula Mehto
+* [↗️](https://github.com/AnjulaMehto/Sampling) Topic 1 – Sampling Techniques 
+* [↗️](https://github.com/AnjulaMehto/Parameter-Estimations-and-Hypothesis_Testing) Topic 2 – Parameter Estimation & Hypothesis Testing  
 
-## 5️⃣ Woyage AI
+### Dr. Suresh Raikwar
+* [↗️](https://www.scraikwar.com/ucs654) Topic 1 - Advance Mathematics: Probability, PMF, PDF, Random Variables & Distributions (Gaussian, Bernoulli)
 
-*Details will be updated soon.*
+### Upcoming Lectures:
+- [↗️](https://github.com/AnjulaMehto/Distribution) Distribution 
+- [↗️](https://github.com/psrana/Machine-Learning-using-PyCaret) Machine Learning using PyCaret 
+- [↗️](https://github.com/psrana/Association-Mining) Association Mining – Apriori 
+- [↗️](https://github.com/AnjulaMehto/AssociationMining-ECLAT-) Association Mining – ECLAT  
+- [↗️](https://github.com/psrana/Multi-Threading-Using-Python) Multi-Threading using Python 
+- [↗️](https://github.com/psrana/Parameter-Optimization-of-SVM) Parameter Optimization 
+- [↗️](https://drive.google.com/file/d/1jFPb9EDTonaHanyBNaGjXLOD8_KzW2YJ/view) Nonlinear Modelling  
+- [↗️](https://github.com/psrana/Measuring-Data-Similarity-and-Dissimilarity) Measuring Data Similarity & Dissimilarity  
+- Ensemble Techniques | *No PPT Available*
 
-### ⚠️ Disclaimer
+## 📂 Course Assignments
+
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A1-Topsis) Assignment 1: TOPSIS
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A2-Sampling) Assignment-2: Sampling
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A3-Advance-Mathematics) Assignment-3: Advanced Mathematics
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A4-Learning-PDF-using-data) Assignment-4: Learning Probability Density Functions Using Data Only
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A5-Topsis-for-Pretrained-Models) Assignment-5: Topsis for Pretrained Models
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A6-Data-Generation-using-Modelling-and-Simulation-for-ML) Assignment-6: Data Generation using Modelling and Simulation for Machine Learning
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A7-Mashup) Assignment-7: Mashup
+
+## ⚠️ Disclaimer
 * This repository is maintained strictly for academic and educational purposes as part of the UCS654 course.
 * Course materials, reference links, and certificates are shared only for academic verification and learning.
 * Copyright of books, slides, and other reference materials remains with the respective authors and publishers.
