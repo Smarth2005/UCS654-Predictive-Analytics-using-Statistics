@@ -58,13 +58,18 @@
 
 ## Course Assignments
 
-- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A1-Topsis) Assignment 1: TOPSIS
-- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A2-Sampling) Assignment-2: Sampling
-- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A3-Advance-Mathematics) Assignment-3: Advanced Mathematics
-- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A4-Learning-PDF-using-data) Assignment-4: Learning Probability Density Functions Using Data Only
-- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A5-Topsis-for-Pretrained-Models) Assignment-5: Topsis for Pretrained Models
-- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A6-Data-Generation-using-Modelling-and-Simulation-for-ML) Assignment-6: Data Generation using Modelling and Simulation for Machine Learning
-- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A7-Mashup) Assignment-7: Mashup
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A1-Topsis) Assignment 01 : TOPSIS
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A2-Sampling) Assignment 02 : Sampling
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A3-Advance-Mathematics) Assignment 03 : Advanced Mathematics
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A4-Learning-PDF-using-data) Assignment 04 : Learning Probability Density Functions Using Data Only
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A5-Topsis-for-Pretrained-Models) Assignment 05 : Topsis for Pretrained Models
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A6-Data-Generation-using-Modelling-and-Simulation-for-ML) Assignment 06 : Data Generation using Modelling and Simulation for Machine Learning
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A7-Mashup) Assignment 07 : Mashup
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A8-Clustering) Assignment 08 : Clustering
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A9-Parameter-Optimization-of-SVM) Assignment 09 : Parameter Optimization of SVM
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A10-Ensemble-of-Pre-trained-models-for-Deep-Fake-Detection) Assignment 10 : Ensemble of Pre-trained models for Deep Fake Detection
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A11-Parameter-Estimation) Assignment 11 : Parameter Estimation
+- [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A12-Multi-Threading) Assignment 12 : Multi Threading
 
 ## Disclaimer
 * This repository is maintained strictly for academic and educational purposes as part of the UCS654 course.
