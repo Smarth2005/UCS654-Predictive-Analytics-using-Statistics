@@ -10,11 +10,15 @@
 **Evaluation Components:**
 - **60 Marks:** MST and EST- Subject to Institute Policy
 - **8 Marks:** 2 Quizzes on LMS 
-- **8 Marks:** Assignments
-- **8 Marks:** Coursera Guided Projects 
+- **8 Marks:** 12 Assignments
+- **8 Marks:** Coursera Guided Projects (Min. target of 24)
 - **8 Marks:** Kaggle Hacks & NumerAI Participation
 - **8 Marks:** Woyage AI- Placement Preparation Platform
 
+**Miscellaneous Tasks:**
+- **2 Marks:** Guided Projects Agentic AI pipeline
+- **2 Marks:** Explore the AI-driven mock interview platform- https://aiforjob.ai
+  
 **Navigation Links:**
 - **Kaggle:** https://www.kaggle.com/smarthkaushal
 - **Numer AI:** https://numer.ai/onboarding
@@ -30,8 +34,8 @@
 ### **II. Guided Projects (Coursera)**
 * Guided projects are being updated progressively here: [Google Sheet Link](https://docs.google.com/spreadsheets/d/1rLxTP40NubP8g-sTl3qotVp8vV_cexf3iEGKmsyaO0Q/edit?gid=891834841#gid=891834841)
 * All the Coursera certifications are progressively added to LinkedIn: [Open LinkedIn](https://www.linkedin.com/in/smarth-kaushal-02a1092b2/details/certifications/)
-
-
+* Final Submission Website: https://projectverifier.vercel.app/
+ 
 ## Lecture Resources
 
 ### Dr. PS Rana
