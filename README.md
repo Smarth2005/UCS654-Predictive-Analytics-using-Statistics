@@ -55,6 +55,8 @@ This repository serves as the central directory for my coursework in the Data Sc
 
 ## Course Assignments
 
+*Note: All 12 assignment repositories have been maintained for learning and documentation purposes; however, only 7 assignments were officially submitted during the course timeline.*
+
 - [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A1-Topsis) Assignment 01 : TOPSIS
 - [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A2-Sampling) Assignment 02 : Sampling
 - [<img src="https://github.com/fluidicon.png" width="15">](https://github.com/Smarth2005/A3-Advance-Mathematics) Assignment 03 : Advanced Mathematics
