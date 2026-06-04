@@ -20,13 +20,13 @@ This repository serves as the central directory for my coursework in the Data Sc
 - **40 Marks:** Sessionals
 
 **SESSIONAL COMPONENTS:** 
-- **3 Marks:** TBA
-- **5 Marks:** Attendance
+- **8 Marks:** Quiz
 - **8 Marks:** Assignments
-- **8 Marks:** Coursera Guided Projects
+- **8 Marks:** Guided Projects
 - **8 Marks:** Kaggle Hacks
-- **8 Marks:** Woyage AI Usage (Placement Preparation Platform)
-
+- **8 Marks:** Woyage AI
+- **5 Marks:** Attendance (Bonus points)
+  
 #### Course Home Page: [Open Me](https://www.psrana.com/ucs654-2026)
 #### Data Science Profiles: [Kaggle](https://www.kaggle.com/smarthkaushal) • [Numer AI](https://numer.ai/onboarding) • [Woyage AI](https://talent.woyage.ai/)
 #### Explore the AI-driven mock interview platform- https://aiforjob.ai
